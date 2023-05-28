@@ -37,6 +37,11 @@ class UI {
                             <span class="product-price">${item.price}$</span>
                             <button class="btn-add-to-cart" data-id=${item.id}>
                                 <i class="fas fa-cart-shopping"></i>
+                                <i class="fas fa-cart-shopping"></i>
+                                <i class="fas fa-cart-shopping"></i>
+                                <i class="fas fa-cart-shopping"></i>
+                                <i class="fas fa-cart-shopping"></i>
+                                <i class="fas fa-cart-shopping"></i>
                             </button>
                         </div>
                     </div>
